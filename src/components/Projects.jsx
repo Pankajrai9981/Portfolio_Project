@@ -20,7 +20,7 @@ function Projects() {
           <img src={Project1} alt="" />
           <h2>Full stack Todo App</h2>
           <p>
-            Full-stack ToDo app with authentication, built using React and Express, enabling users to add, update, and delete tasks securely
+            Developed a full-stack ToDo application using React, Node.js, and Express with JWT authentication, allowing users to securely add, update, delete, and manage tasks through a responsive interface.
           </p>
           <div className="tools">
             <img src={icon_react} alt="React" />
@@ -39,9 +39,9 @@ function Projects() {
         {/* project2  */}
         <div className="project-card">
           <img src={Project2} alt="" />
-          <h2>Full stack E-Commerce App</h2>
+          <h2>Full stack Hootel Booking Web Application</h2>
           <p>
-            A full-stack E-Commerce application built with the PERN stack, featuring authentication, product listing, cart management, and secure checkout for a smooth online shopping experience.
+            Developed a full-stack hotel booking platform using React.js, Node.js, Express, and MongoDB with JWT authentication and an admin panel for efficient hotel and user management.
           </p>
           <div className="tools">
             <img src={icon_react} alt="React" />
@@ -50,10 +50,10 @@ function Projects() {
           </div>
           <div className="project-links">
             <button>
-              <a href="https://github.com/Pankajrai9981/E-commerce.git" target="_blank" rel="noreferrer">Live Demo</a>
+              <a href="https://github.com/Pankajrai9981/Hootel_Booking_Website.git" target="_blank" rel="noreferrer">Live Demo</a>
             </button>
             <button>
-              <a href="https://github.com/Pankajrai9981/E-commerce.git" target="_blank" rel="noreferrer">GitHub</a>
+              <a href="https://github.com/Pankajrai9981/Hootel_Booking_Website.git" target="_blank" rel="noreferrer">GitHub</a>
             </button>
           </div>
         </div>
