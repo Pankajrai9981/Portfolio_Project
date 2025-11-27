@@ -20,7 +20,7 @@ function Navbar() {
             <li><a href="#contact" onClick={closeMenu}>Contact</a></li>
             <li>
               <a 
-                href={'https://www.canva.com/design/DAFkN2o-0pg/0HSq00NEPZeTV4vWuM9u4Q/view?utm_content=DAFkN2o-0pg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha6e1ba7ac8'} 
+                href={'https://drive.google.com/file/d/1iApiR7KzOA-SvB8k_spwGcxPhJZh-jWU/view?usp=sharing'} 
                 target="_blank" 
                 rel="noreferrer"
                 className="resumeLink"

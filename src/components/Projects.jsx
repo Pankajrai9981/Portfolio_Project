@@ -39,9 +39,9 @@ function Projects() {
         {/* project2  */}
         <div className="project-card">
           <img src={Project2} alt="" />
-          <h2>Full stack Hootel Booking Web Application</h2>
+          <h2>Full stack E-Commerce Web Application</h2>
           <p>
-            Developed a full-stack hotel booking platform using React.js, Node.js, Express, and MongoDB with JWT authentication and an admin panel for efficient hotel and user management.
+            Built a MERN eCommerce platform with product browsing, cart, secure JWT authentication, admin product management, and responsive UI enabling users to shop, manage orders, and view purchases easy.
           </p>
           <div className="tools">
             <img src={icon_react} alt="React" />
@@ -50,10 +50,10 @@ function Projects() {
           </div>
           <div className="project-links">
             <button>
-              <a href="https://github.com/Pankajrai9981/Hootel_Booking_Website.git" target="_blank" rel="noreferrer">Live Demo</a>
+              <a href="https://github.com/Pankajrai9981/E-commerce" target="_blank" rel="noreferrer">Live Demo</a>
             </button>
             <button>
-              <a href="https://github.com/Pankajrai9981/Hootel_Booking_Website.git" target="_blank" rel="noreferrer">GitHub</a>
+              <a href="https://github.com/Pankajrai9981/E-commerce" target="_blank" rel="noreferrer">GitHub</a>
             </button>
           </div>
         </div>
