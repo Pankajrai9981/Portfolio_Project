@@ -29,7 +29,7 @@ function About() {
           </p>
 
           <a
-            href={'https://drive.google.com/file/d/1iApiR7KzOA-SvB8k_spwGcxPhJZh-jWU/view?usp=sharing'}
+            href={'https://drive.google.com/file/d/1vqPJvx026JowsYThZr11hJ1rrBGpRyoN/view?usp=sharing'}
             target="_blank"
             rel="noreferrer"
             id="btn"
