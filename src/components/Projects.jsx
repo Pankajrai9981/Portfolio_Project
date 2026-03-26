@@ -1,6 +1,6 @@
 import React from "react";
 import Project1 from '../assets/todo.gif'
-import Project2 from '../assets/project2.gif'
+import Project2 from '../assets/giphy.gif'
 import icon_react from '../../images/icon-react.png'
 import icon_redux from '../../images/icon-redux.png'
 import chakra_ui from '../../images/icon-chakra-ui.png'
